@@ -1,0 +1,146 @@
+.container-nav-bar{
+    height:60px;
+    background-color:#131a22 ;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.amazonlogo{
+    height: 65px;
+    margin-top: px;
+}
+.adress-location{
+    height: 50px;
+    
+}
+.deliver{
+    color: aliceblue;
+font-size: .65rem;
+margin-left: 18px;
+margin-top: 5px;
+}
+.icon-bd{
+    color: aliceblue;
+    display: flex;
+    margin-top: 0;
+}
+.bd{
+    margin-top: 2px;
+    font-weight: 700;
+}
+.search-bar{
+    display: flex;
+
+width: 550px;
+height: 40px;
+margin-top: 8px;
+justify-content:space-around;}
+
+
+.search-bar select{
+    
+    font-size: .80rem;
+font-weight: 300;
+background-color: rgb(232, 231, 231);
+}
+.search-icon{
+    color: black;
+
+    display: flex;
+    align-items: center;
+    background-color:#febd69
+    ;padding-right:10px;
+    padding-left: 10px
+    ;border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    ;
+}
+input{
+    width: 100%;
+     }
+select{
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+.box-4{
+    width:60px;
+    height: 60px;
+    color: azure;
+}
+.hello{ 
+    font-size: .70rem;
+    color: aliceblue;margin-top: 5px;
+}
+.acc{
+    font-weight: 700;
+    color: aliceblue;
+}
+.l-cart {
+    color: aliceblue;
+    margin-top: 8px;
+    
+}
+.logo-cart{
+    display: flex;
+}
+.cart{
+    color: aliceblue;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.sec2{
+    height:35px;
+    font-size: .9rem;
+    font-weight: 400;
+    background-color: #37475a;
+    color: aliceblue;
+    display: flex
+    ;justify-content: space-between;
+    align-items: center;
+   
+}
+.right{
+    display: flex;
+    justify-content:space-between;
+    gap:15px
+}
+.left{
+    font-weight: 700;
+    margin-right: 20px;
+}
+.all{font-weight: 600;
+margin-left: 10px;
+}
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    margin:20px;
+    
+
+}
+    
+   
+    .main1{
+        display: flex;
+        justify-content: space-around;
+        gap:20px
+    }
+    
+    .main2{
+        display: flex;
+        justify-content: space-between;
+        gap:20px
+    }
+    .box{
+        width:25%;
+          border: 1px solid black;
+       }
+    .box-img{
+        height: 200px;
+    }
+
+  
